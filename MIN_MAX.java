@@ -28,10 +28,3 @@ public class MIN_MAX {
             sc.close();
         }
     }
-
-
-
-
-
-
-}
